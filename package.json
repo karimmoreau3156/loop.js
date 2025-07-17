@@ -1,6 +1,6 @@
 {
   "name": "loop.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
   "main": "src/index.ts",
   "scripts": {
